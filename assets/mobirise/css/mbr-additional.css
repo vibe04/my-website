@@ -2674,6 +2674,10 @@ section.lazy-placeholder:after {
 .cid-s9l1PCVSlf .mbr-section-subtitle {
   font-style: italic;
 }
+.cid-s9l1PCVSlf .mbr-text,
+.cid-s9l1PCVSlf .mbr-section-btn {
+  text-align: left;
+}
 .cid-s9pKS1VNs9 {
   padding-top: 90px;
   padding-bottom: 90px;
